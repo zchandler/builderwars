@@ -29,11 +29,11 @@ Attack
 Resolving Attack Outcomes
 Movement II
 Finishing the Game
-Parking Lot: notes and ideas
 
 
 Overview
 Builder Wars is a turn-based, strategy wargame that uses Lego bricks and minifigs as game pieces.  It requires 1 game master, and 2-4 players. The game scenario, playability, fairness, and game flow are the responsibility of the game master (GM). The players follow the rules, invent things, and have fun!
+
 Principles
 *Games should be fun. If the rules of the game are preventing the players from having fun, the the GM should change the rules. 
 *Games should be fair. There is no special power or ability that can be granted to one player that cannot be granted or made available to all players.
