@@ -1,64 +1,68 @@
-Builder Wars!
+# Builder Wars!
+
 A Lego Strategy Wargame
 
 game design: Zach Chandler
+
 contributors: Zach Chandler, Elijah Chandler, David Felch
+
 contact: logothete@gmail.com
 
 LEGO and MINIFIGURE are registered trademark of the LEGO Group. 
 All of the original content in Builder Wars is made available to the public under a Creative Commons Attribution license. https://creativecommons.org/licenses/by/2.0/
 
+## Contents
+* Overview
+* Principles
+* How to Play
+* Materials
+* Build Phase
+  * Hit Points
+  * Weapons, Shields, and Equipment
+  * Hero Names
+  * Speed
+  * Attack Damage
+  * Base Building
+  * Defenses
+  * The Lineup
+* Battle Phase
+  * Movement I
+  * Attack
+  * Resolving Attack Outcomes
+  * Movement II
+* Finishing the Game
 
-Contents
-Overview
-Principles
-How to Play
-Materials
-Build Phase
-Hit Points
-Weapons, Shields, and Equipment
-Hero Names
-Speed
-Attack Damage
-Base Building
-Defenses
-The Lineup
-Battle Phase
-Movement I
-Attack
-Resolving Attack Outcomes
-Movement II
-Finishing the Game
 
-
-Overview
+# Overview
 Builder Wars is a turn-based, strategy wargame that uses Lego bricks and minifigs as game pieces.  It requires 1 game master, and 2-4 players. The game scenario, playability, fairness, and game flow are the responsibility of the game master (GM). The players follow the rules, invent things, and have fun!
 
-Principles
-*Games should be fun. If the rules of the game are preventing the players from having fun, the the GM should change the rules. 
-*Games should be fair. There is no special power or ability that can be granted to one player that cannot be granted or made available to all players.
-*This game is a beta playtest experience for everyone involved. This means that there will be grey areas, and the GM will have to make stuff up. All players must agree not to fault the GM for adjudication during the game. 
-*New ideas are welcome. During gameplay, anyone that has an idea to make the game better is encouraged to share that idea, which is acknowledged and scribbled down by the GM for later review.
-*Keep it simple. Better to start out simple and add complexity later.
+# Principles
+* Games should be fun. If the rules of the game are preventing the players from having fun, the the GM should change the rules. 
+* Games should be fair. There is no special power or ability that can be granted to one player that cannot be granted or made available to all players.
+* This game is a beta playtest experience for everyone involved. This means that there will be grey areas, and the GM will have to make stuff up. All players must agree not to fault the GM for adjudication during the game. 
+* New ideas are welcome. During gameplay, anyone that has an idea to make the game better is encouraged to share that idea, which is acknowledged and scribbled down by the GM for later review.
+* Keep it simple. Better to start out simple and add complexity later.
 
-How to Play
+# How to Play
 There are 2 major phases of game play in Builder Wars: 1) the Build Phase, followed by 2) the Battle Phase. The GM guides the players through all phases, is responsible for game flow (if it’s going too slow, change it up!). The GM has to be impartial and keep things moving. The battlefield is whatever available space you have on the floor of your bedroom. (8’x8’ was used for Game Zero.) If all players are grownups, you may opt to not have a GM. In the case of young players, the GM should be a parent.
 Materials
-*20+ lego minifigs
-*20 4x6 flat lego pieces
-*20 small cone pieces
-*2 large baseplates
-*200 2x2 bricks
-*160 1-dot studs
-*2 rulers, or tape measure
-*1 Builder Wars Battle Sheet (or just a blank piece of paper)
-*1 pencil
-*painters tape (masking tape)
+* 20+ lego minifigs
+* 20 4x6 flat lego pieces
+* 20 small cone pieces
+* 2 large baseplates
+* 200 2x2 bricks
+* 160 1-dot studs
+* 2 rulers, or tape measure
+* 1 Builder Wars Battle Sheet (or just a blank piece of paper)
+* 1 pencil
+* painters tape (masking tape)
 
-Build Phase 
+# Build Phase 
+
 Duration: ~1 hour
 
 In the Build Phase, each player selects their army from available Lego minifigs. The baseline number of minifigs (aka “heroes”) per side is 10, so for a 2 person game you should have at least 20 minifigs.  It is ideal if there any many more than this to chose from, and mix and match pieces, components, weapons and gear.
+
 Hit Points
 The primary game mechanic of Builder Wars is hit points (HP). The number of HP that a given minifig hero has determines how much damage he or she can withstand before shuffling off the mortal coil.  
 
@@ -75,7 +79,7 @@ There are no extraneous cards or paperwork to keep track of HP since it’s visi
 
 pro tip: The regular round lego studs (that have that little lip on them) are best. The smooth round pieces are harder to get on and off, so avoid those.
 
-Weapons, Shields, and Equipment
+# Weapons, Shields, and Equipment
 The build phase is a great opportunity for the players to express themselves creatively and come up with original combinations. Chainsaw in one hand, and laser rifle in the other? Sure! Can Magneto use Mjolnir? Why not? It can be an alternative universe Mjolnir where you don’t have to be all that worthy ...  Everything should be fair game during the Build Phase.  A lot of the character of the heroes will come from the weapons and equipment the players choose. Can a banana be a weapon? Of course! It might be a special “deadly banana”. The GM works all that out, guided by the ideas of the players.
 
 Hero weapons are judged by the GM based on the appearance of what the players have built out of the available Lego pieces. Particularly awesome or clever builds should be lauded and acknowledged as particularly dangerous looking. GM then assigns an Damage Rating (DR) for each weapon, and Shield Rating (SR) for shields. Special weapon abilities have to be paid for with HP from the player’s total HP pool.
