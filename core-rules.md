@@ -1,7 +1,6 @@
 Builder Wars!
 A Lego Strategy Wargame
 
-current version: 0.1
 game design: Zach Chandler
 contributors: Zach Chandler, Elijah Chandler, David Felch
 contact: logothete@gmail.com
