@@ -45,7 +45,7 @@ Builder Wars is a turn-based, strategy wargame that uses Lego bricks and minifig
 
 # How to Play
 There are 2 major phases of game play in Builder Wars: 1) the Build Phase, followed by 2) the Battle Phase. The GM guides the players through all phases, is responsible for game flow (if it’s going too slow, change it up!). The GM has to be impartial and keep things moving. The battlefield is whatever available space you have on the floor of your bedroom. (8’x8’ was used for Game Zero.) If all players are grownups, you may opt to not have a GM. In the case of young players, the GM should be a parent.
-Materials
+## Materials
 * 20+ lego minifigs
 * 20 4x6 flat lego pieces
 * 20 small cone pieces
