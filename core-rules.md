@@ -86,14 +86,15 @@ Hero weapons are judged by the GM based on the appearance of what the players ha
 
 All minifigs have 2 hands (except for rare exceptions) and can thusly have either 2 weapons (1 in each hand), a weapon and shield, 2 shields, or one of the above with a special battle effect item like a hypnostaff (from the Ninjago snake bad guys). Each player makes this loadout decision for each hero. 2 weapons is a popular choice because it affords 2 attacks per turn.
 
-* Melee weapons do 1-5 damage (1 = small dagger, 5 = lightsaber, vorpal sword, or magically endowed baguette).
-* Ranged weapons do 1-3 damage (1 = bow&arrow; 3 = sniper rifle). Often lighter dmg weapons will have longer range. Range is measured in inches. Close up ranged weapons (i.e. shotgun) = 4” range, long distance ranged weapons (i.e. rifle or crossbow) = 12”. GM arbitrarily assigns weapon ranges, with an eye toward game balance.
-* Shields prevent 1HP from each incoming attack. So, a hero holding 2 shields would subtract 2HP of damage from each and every incoming attack before it did any damage to his/her HP, which makes 2 shields very effective against all but the most powerful ranged attacks.  Heros with shields can block for other heroes, if they are in the direct line of fire of the incoming attack.
-* Fire weapons do an extra 1HP of burn damage during the next turn after being hit, in addition to their normal damage. GM should designate who has a fire weapon in their notes, and generally there is some kind of visual component to the lego pieces involved (fire, or a red clear piece on weapon).
+* **Melee weapons** do 1-5 damage (1 = small dagger, 5 = lightsaber, vorpal sword, or magically endowed baguette).
+* **Ranged weapons** do 1-3 damage (1 = bow&arrow; 3 = sniper rifle). Often lighter dmg weapons will have longer range. Range is measured in inches. Close up ranged weapons (i.e. shotgun) = 4” range, long distance ranged weapons (i.e. rifle or crossbow) = 12”. GM arbitrarily assigns weapon ranges, with an eye toward game balance.
+* **Shields** prevent 1HP from each incoming attack. So, a hero holding 2 shields would subtract 2HP of damage from each and every incoming attack before it did any damage to his/her HP, which makes 2 shields very effective against all but the most powerful ranged attacks.  Heros with shields can block for other heroes, if they are in the direct line of fire of the incoming attack.
+* **Fire** weapons do an extra 1HP of burn damage during the next turn after being hit, in addition to their normal damage. GM should designate who has a fire weapon in their notes, and generally there is some kind of visual component to the lego pieces involved (fire, or a red clear piece on weapon).
 cost: 2HP from total HP pool per weapon
-* Ice weapons cut the victims movement in half during the next turn after being hit, in addition to their normal damage. GM should designate who has a fire weapon in their notes, and generally there is some kind of visual component to the lego pieces involved (clear blue piece on weapon).
+* **Ice** weapons cut the victims movement in half during the next turn after being hit, in addition to their normal damage. GM should designate who has a fire weapon in their notes, and generally there is some kind of visual component to the lego pieces involved (clear blue piece on weapon).
+*  **Lightning** can only be applied to melee weapons. +1 damage to powered up attacks, which can exceed the normal maximum (5+1=6). Cooldown: 1 turn (can only be powered up every other turn).
 cost: 2HP from total HP pool per weapon
-* Hypno weapons induce a stun effect on their victim, such that they skip their next normal turn. Hypno weapons can only be used every other turn.  
+* **Hypno weapons** induce a stun effect on their victim, such that they skip their next normal turn. Hypno weapons can only be used every other turn.  
 cost: 2HP from total HP pool per weapon
 
 ## Hero Names
