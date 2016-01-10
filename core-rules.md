@@ -104,8 +104,8 @@ After the players have both made their HP assignments, the GM assigns Speed valu
 
 The Speed rating of each hero determines how many inches he or she may move each turn. Speed can be a big advantage.
 
-The baseline Speed rating for a totally unencumbered character (with only 2HP) is 16.  
-Subtract 1 for each HP, so a hero with 4HP has a Speed of 12, while an armored hero with 8HP has a speed of 8, and heavily armored tank hero with 12HP has a speed of 4.
+Speed = (20 minus HP value), so the baseline Speed rating for a totally unencumbered character (with only 2HP) is 18.  
+Subtract 1 for each additional HP, so a hero with 4HP has a Speed of 16, while an armored hero with 10HP has a speed of 10, and heavily armored tank hero with 12HP has a speed of 8.
 
 ## Attack Damage
 Before the battle can begin, each hero needs an Attack Rating (AR). AR is a little arbitrary, and the GM should use his or her discretion. Using the range of possible damage that a given weapon type can inflict (1-3 for ranged, 1-5 for melee) the GM makes a determination based on what the players build looks like. Plasma sword with cool-looking gizmos hanging off it? That would be a 5 (duh). Once a first pass based on looks is done, then add up the total damage for each side to make sure it’s not lopsided. Adjust AR up or down, for one or both sides, to make it a more even match.
