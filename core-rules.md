@@ -97,6 +97,19 @@ cost: 2HP from total HP pool per weapon
 * **Hypno weapons** induce a stun effect on their victim, such that they skip their next normal turn. Hypno weapons can only be used every other turn.  
 cost: 2HP from total HP pool per weapon
 
+## Special Powers 
+### Necromancy
+Necro is a powerful addition to the game. It costs 3HP to add Necro power to an item, and it has to be the only function that that item can do (i.e. you can't add Necro to a weapon, you have to dedicate a hand to it). The necro item, often a staff, has to have some kind of gruesome element to the physical build (a disembodied minifig head topped with a green fang was used for the very first Necrostaff). 
+Here's how Necro works:
+* If there is a dead hero that has fallen in combat, and he or she is in range of the Necromancer (9" normally) then the Necromancer can raise him/her as a zombie
+* zombies only have 2HP
+* zombies can only do 2HP damage
+* zombies drop whatever weapons or shields they carried when they were alive
+* zombies are slow. Speed is 6" max.
+* necromancers can control all movement and attacks of zombies so long as they are within 12". Zombies that are outside this range wander off in random directions, and attack random heroes from either side.
+* there is no limit to how many zombies a Necromancer can raise
+* zombies can only be raised once. If they are killed again, they are removed from the game.
+
 ## Hero Names
 Once heroes have been outfitted, they have to have their own original names for the Battle Phase so we can create the batting order and refer to each hero easily. The names should be descriptive, but if you can work in originality or silliness, that’s an added bonus. For the sake of saving time, the GM comes up with the names, but if the players have ideas or strong feelings about a particular hero, use those instead. If you are stuck for names, go watch a wuxia movie, and come back and try again. Example names from the inaugural Game Zero: “Lightning Bat”, “Magneto Firehammer”, “Green Ninja Hackfest” … you get the idea.
 
