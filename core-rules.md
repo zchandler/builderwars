@@ -4,7 +4,7 @@ A Lego Strategy Wargame
 
 game design: Zach Chandler
 
-contributors: Zach Chandler, Elijah Chandler, David Felch
+contributors: Zach Chandler, Elijah Chandler, David Felch, Donovan Metz, Andrew Felch, Michael Metz
 
 contact: logothete@gmail.com
 
