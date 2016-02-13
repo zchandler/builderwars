@@ -97,8 +97,8 @@ cost: 2HP from total HP pool per weapon
 * **Hypno weapons** induce a stun effect on their victim, such that they skip their next normal turn. Hypno weapons can only be used every other turn.  
 cost: 2HP from total HP pool per weapon
 
-## Special Powers 
-### Necromancy
+### Special Weapons 
+#### Necromancy
 Necro is a powerful addition to the game. It costs 3HP to add Necro power to an item, and it has to be the only function that that item can do (i.e. you can't add Necro to a weapon, you have to dedicate a hand to it). The necro item, often a staff, has to have some kind of gruesome element to the physical build (a disembodied minifig head topped with a green fang was used for the very first Necrostaff). 
 Here's how Necro works:
 * If there is a dead hero that has fallen in combat, and he or she is in range of the Necromancer (9" normally) then the Necromancer can raise him/her as a zombie
