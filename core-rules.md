@@ -61,19 +61,19 @@ There are 2 major phases of game play in Builder Wars: 1) the Build Phase, follo
 
 Duration: ~1 hour
 
-In the Build Phase, each player selects their army from available Lego minifigs. The baseline number of minifigs (aka “heroes”) per side is 10, so for a 2 person game you should have at least 20 minifigs.  It is ideal if there any many more than this to chose from, and mix and match pieces, components, weapons and gear.
+In the Build Phase, each player selects their army from available Lego minifigs. The baseline number of minifigs (aka “heroes”) per side is 10, so for a 2 person game you should have around 20 minifigs.  It is ideal if there any many more than this to chose from, and mix and match pieces, components, weapons and gear.
 
 ## Hit Points
 The primary game mechanic of Builder Wars is hit points (HP). The number of HP that a given minifig hero has determines how much damage he or she can withstand before shuffling off the mortal coil.  
 
-Each player is allocated 80 total HP at the beginning of the game, to be divided amongst all their heroes.
+Each player is allocated 96 total HP at the beginning of the game, to be divided amongst all their heroes.
   
-A player can give 8HP to 10 heroes, or give more or less to some than others. 
+A player can give 6HP to 12 heroes, or give more or less to some than others. 
 HP allocation is the next step in army building, once the heroes have been assembled from parts. 
 
 One HP is designated by a 1-dot “stud” lego piece. The lego piece (normally a 4x4 or 4x6 plate) that serves as a base to steady the minifig is also the HP counter. A baseplate 4 dots wide is best for playing on carpets, since 2-dot wide baseplates are tippy (half your heroes will be flopped over in a not very dignified way for most of the battle!).  Any flat lego piece (“plate” type) will do, but 4x6 is the current default because it is small enough to be maneuverable, yet hold a sufficient amount of hit points (see below), and forces a HP constraint on how heavy duty a given hero can be.
-Q: Can I have 1 hero with all 80 hit points?
-GM: Let’s try it, and see how it plays out! 
+Q: *Can I have 1 hero with all 80 hit points?*
+GM: *Let’s try it, and see how it plays out!*
 
 There are no extraneous cards or paperwork to keep track of HP since it’s visible to everyone just using Lego. A hero with 8HP will have 8 studs on his baseplate when he is at full health. If he gets hit by an arrow for 1HP damage, the player removes a stud, leaving him with 7. When there are no studs remaining, that hero is dead … or “defeated”, or whatever term you care to use. ahem.
 
@@ -88,7 +88,7 @@ All minifigs have 2 hands (except for rare exceptions) and can thusly have eithe
 
 * **Melee weapons** do 1-5 damage (1 = small dagger, 5 = lightsaber, vorpal sword, or magically endowed baguette).
 * **Ranged weapons** do 1-3 damage (1 = bow&arrow; 3 = sniper rifle). Often lighter dmg weapons will have longer range. Range is measured in inches. Close up ranged weapons (i.e. shotgun) = 4” range, long distance ranged weapons (i.e. rifle or crossbow) = 12”. GM arbitrarily assigns weapon ranges, with an eye toward game balance.
-* **Shields** prevent 1HP from each incoming attack. So, a hero holding 2 shields would subtract 2HP of damage from each and every incoming attack before it did any damage to his/her HP, which makes 2 shields very effective against all but the most powerful ranged attacks.  Heros with shields can block for other heroes, if they are in the direct line of fire of the incoming attack. If the player pays 2HP from their HP Pool, they can upgrade to a Super Shield that blocks 2HP from each incoming attack. Super Shield also have to be made of special pieces, or otherwise look awesome in order to qualify.
+* **Shields** prevent 1HP from each incoming attack. So, a hero holding 2 shields would subtract 2HP of damage from each and every incoming attack before it did any damage to his/her HP, which makes 2 shields very effective against all but the most powerful ranged attacks.  Heros with shields can block for other heroes, if they are in the direct line of fire of the incoming attack. If the player pays 2HP from their HP Pool, they can upgrade to a Super Shield that blocks 2HP from each incoming attack. Super Shields also have to be made of special pieces, or otherwise look awesome in order to qualify.
 * **Fire** weapons do an extra 1HP of burn damage during the next turn after being hit, in addition to their normal damage. GM should designate who has a fire weapon in their notes, and generally there is some kind of visual component to the lego pieces involved (fire, or a red clear piece on weapon).
 cost: 2HP from total HP pool per weapon
 * **Ice** weapons cut the victims movement in half during the next turn after being hit, in addition to their normal damage. GM should designate who has a fire weapon in their notes, and generally there is some kind of visual component to the lego pieces involved (clear blue piece on weapon).
