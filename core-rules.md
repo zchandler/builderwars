@@ -37,11 +37,11 @@ All of the original content in Builder Wars is made available to the public unde
 Builder Wars is a turn-based, strategy wargame that uses Lego bricks and minifigs as game pieces.  It requires 1 game master, and 2-4 players. The game scenario, playability, fairness, and game flow are the responsibility of the game master (GM). The players follow the rules, invent things, and have fun!
 
 # Principles
-* Games should be fun. If the rules of the game are preventing the players from having fun, the the GM should change the rules. 
-* Games should be fair. There is no special power or ability that can be granted to one player that cannot be granted or made available to all players.
-* This game is a beta playtest experience for everyone involved. This means that there will be grey areas, and the GM will have to make stuff up. All players must agree not to fault the GM for adjudication during the game. 
-* New ideas are welcome. During gameplay, anyone that has an idea to make the game better is encouraged to share that idea, which is acknowledged and scribbled down by the GM for later review.
-* Keep it simple. Better to start out simple and add complexity later.
+1. Games should be fun. If the rules of the game are preventing the players from having fun, the the GM should change the rules. 
+2. Games should be fair. There is no special power or ability that can be granted to one player that cannot be granted or made available to all players.
+3. This game is a beta playtest experience for everyone involved. This means that there will be grey areas, and the GM will have to make stuff up. All players must agree not to fault the GM for adjudication during the game. 
+4. New ideas are welcome. During gameplay, anyone that has an idea to make the game better is encouraged to share that idea, which is acknowledged and scribbled down by the GM for later review.
+5. Keep it simple. Better to start out simple and add complexity later.
 
 # How to Play
 There are 2 major phases of game play in Builder Wars: 1) the Build Phase, followed by 2) the Battle Phase. The GM guides the players through all phases, is responsible for game flow (if it’s going too slow, change it up!). The GM has to be impartial and keep things moving. The battlefield is whatever available space you have on the floor of your bedroom. (8’x8’ was used for Game Zero.) If all players are grownups, you may opt to not have a GM. In the case of young players, the GM should be a parent.
@@ -96,19 +96,6 @@ cost: 2HP from total HP pool per weapon
 cost: 2HP from total HP pool per weapon
 * **Hypno weapons** induce a stun effect on their victim, such that they skip their next normal turn. Hypno weapons can only be used every other turn.  
 cost: 2HP from total HP pool per weapon
-
-### Special Weapons 
-#### Necromancy
-Necro is a powerful addition to the game. It costs 3HP to add Necro power to an item, and it has to be the only function that that item can do (i.e. you can't add Necro to a weapon, you have to dedicate a hand to it). The necro item, often a staff, has to have some kind of gruesome element to the physical build (a disembodied minifig head topped with a green fang was used for the very first Necrostaff). 
-Here's how Necro works:
-* If there is a dead hero that has fallen in combat, and he or she is in range of the Necromancer (9" normally) then the Necromancer can raise him/her as a zombie
-* zombies only have 2HP
-* zombies can only do 2HP damage
-* zombies drop whatever weapons or shields they carried when they were alive
-* zombies are slow. Speed is 6" max.
-* necromancers can control all movement and attacks of zombies so long as they are within 12". Zombies that are outside this range wander off in random directions, and attack random heroes from either side.
-* there is no limit to how many zombies a Necromancer can raise
-* zombies can only be raised once. If they are killed again, they are removed from the game.
 
 ## Hero Names
 Once heroes have been outfitted, they have to have their own original names for the Battle Phase so we can create the batting order and refer to each hero easily. The names should be descriptive, but if you can work in originality or silliness, that’s an added bonus. For the sake of saving time, the GM comes up with the names, but if the players have ideas or strong feelings about a particular hero, use those instead. If you are stuck for names, go watch a wuxia movie, and come back and try again. Example names from the inaugural Game Zero: “Lightning Bat”, “Magneto Firehammer”, “Green Ninja Hackfest” … you get the idea.
@@ -181,3 +168,20 @@ If the hero that attacked has any speed left, he or she may use the remainder af
 
 # Finishing the Game
 How do you know when a game of Builder Wars is over? Who knows? We’ll tell you when we finish one! LOL
+
+#Appendix: Special Powers and Optional Rules
+Alright, you got me. All the rules are pretty much optional in Builder Wars (see Principle #1). However, it made sense to keep some of the longer winded new stuff in its own section to keep the core rules lean and easy to read.
+
+## Necromancy
+Necro is a powerful addition to the game. It costs 3HP to add Necro power to an item, and it has to be the only function that that item can do (i.e. you can't add Necro to a weapon, you have to dedicate a hand to it). The necro item, often a staff, has to have some kind of gruesome element to the physical build (a disembodied minifig head topped with a green fang was used for the very first Necrostaff). 
+Here's how Necro works:
+* If there is a dead hero that has fallen in combat, and he or she is in range of the Necromancer (9" normally) then the Necromancer can raise him/her as a zombie
+* zombies only have 2HP
+* zombies can only do 2HP damage
+* zombies drop whatever weapons or shields they carried when they were alive
+* zombies are slow. Speed is 6" max.
+* necromancers can control all movement and attacks of zombies so long as they are within 12". Zombies that are outside this range wander off in random directions, and attack random heroes from either side.
+* there is no limit to how many zombies a Necromancer can raise
+* zombies can only be raised once. If they are killed again, they are removed from the game.
+
+
