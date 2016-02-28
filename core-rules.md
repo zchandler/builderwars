@@ -143,10 +143,10 @@ The GM posits a scenario. Maybe it’s a skirmish and there are no bases; or Cap
 Initiative is determined by ro-sham-bo. The winning player goes first. 
 
 Battle has 4 steps:
-* Movement I
-* Attack
-* Resolve attack outcomes
-* Movement II
+1. Movement I
+2. Attack
+3. Resolve attack outcomes
+4. Movement II
 
 Throughout the game the GM reads from the lineup, and cycles through, top to bottom, then back to the top again. etc.  It is the responsibility of each player to remember which hero they moved last time. (If they forget that is not the GM’s fault.) You will get into a rhythm, and this gets easier and faster as the game evolves.
 
