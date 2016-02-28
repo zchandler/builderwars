@@ -89,14 +89,16 @@ All minifigs have 2 hands (except for rare exceptions) and can thusly have eithe
 
 * **Melee weapons** do 1-5 damage (1 = small dagger, 5 = lightsaber, vorpal sword, or magically endowed baguette).
 * **Ranged weapons** do 1-3 damage (1 = bow&arrow; 3 = sniper rifle). Often lighter dmg weapons will have longer range. Range is measured in inches. Close up ranged weapons (i.e. shotgun) = 4” range, long distance ranged weapons (i.e. rifle or crossbow) = 12”. GM arbitrarily assigns weapon ranges, with an eye toward game balance.
+* **Two-handed weapons** do up to 10 damage, but the hero must dedicate 2 hands to wielding it.
 * **Shields** prevent 1HP from each incoming attack. So, a hero holding 2 shields would subtract 2HP of damage from each and every incoming attack before it did any damage to his/her HP, which makes 2 shields very effective against all but the most powerful ranged attacks.  Heros with shields can block for other heroes, if they are in the direct line of fire of the incoming attack. If the player pays 2HP from their HP Pool, they can upgrade to a Super Shield that blocks 2HP from each incoming attack. Super Shields also have to be made of special pieces, or otherwise look awesome in order to qualify.
-* **Fire** weapons do an extra 1HP of burn damage during the next turn after being hit, in addition to their normal damage. GM should designate who has a fire weapon in their notes, and generally there is some kind of visual component to the lego pieces involved (fire, or a red clear piece on weapon).
-cost: 2HP from total HP pool per weapon
-* **Ice** weapons cut the victims movement in half during the next turn after being hit, in addition to their normal damage. GM should designate who has a fire weapon in their notes, and generally there is some kind of visual component to the lego pieces involved (clear blue piece on weapon).
+* **Fire** weapons do an extra 1HP of burn damage during the next turn after being hit, in addition to their normal damage. GM should designate who has a fire weapon in their notes, and generally there is some kind of visual component to the lego pieces involved (fire, or a red clear piece on weapon). cost: 2HP.
+* **Ice** weapons cut the victims movement in half during the next turn after being hit, in addition to their normal damage. GM should designate who has a fire weapon in their notes, and generally there is some kind of visual component to the lego pieces involved (clear blue piece on weapon). cost: 2HP.
 *  **Lightning** can only be applied to melee weapons. +1 damage to powered up attacks, which can exceed the normal maximum (5+1=6). Cooldown: 1 turn (can only be powered up every other turn).
-cost: 2HP from total HP pool per weapon
-* **Hypno weapons** induce a stun effect on their victim, such that they skip their next normal turn. Hypno weapons can only be used every other turn.  
-cost: 2HP from total HP pool per weapon
+cost: 2HP.
+* **Hypno ** weapons induce a stun effect on their victim, such that they skip their next normal turn. Hypno weapons can only be used every other turn.  
+cost: 2HP.
+* **Cleave** weapons can do either their full damage to a single target, or half-damage (rounded down) to all nearby enemies. cost: 3HP.
+* **Necro** can raise zombies from falled heroes. See appendix.
 
 ## Hero Names
 Once heroes have been outfitted, they have to have their own original names for the Battle Phase so we can create the batting order and refer to each hero easily. The names should be descriptive, but if you can work in originality or silliness, that’s an added bonus. For the sake of saving time, the GM comes up with the names, but if the players have ideas or strong feelings about a particular hero, use those instead. If you are stuck for names, go watch a wuxia movie, and come back and try again. Example names from the inaugural Game Zero: “Lightning Bat”, “Magneto Firehammer”, “Green Ninja Hackfest” … you get the idea.
