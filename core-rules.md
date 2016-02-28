@@ -95,7 +95,7 @@ All minifigs have 2 hands (except for rare exceptions) and can thusly have eithe
 * **Ice** weapons cut the victims movement in half during the next turn after being hit, in addition to their normal damage. GM should designate who has a fire weapon in their notes, and generally there is some kind of visual component to the lego pieces involved (clear blue piece on weapon). cost: 2HP.
 *  **Lightning** can only be applied to melee weapons. +1 damage to powered up attacks, which can exceed the normal maximum (5+1=6). Cooldown: 1 turn (can only be powered up every other turn).
 cost: 2HP.
-* **Hypno ** weapons induce a stun effect on their victim, such that they skip their next normal turn. Hypno weapons can only be used every other turn.  
+* **Hypno** weapons induce a stun effect on their victim, such that they skip their next normal turn. Hypno weapons can only be used every other turn.  
 cost: 2HP.
 * **Cleave** weapons can do either their full damage to a single target, or half-damage (rounded down) to all nearby enemies. cost: 3HP.
 * **Necro** can raise zombies from falled heroes. See appendix.
