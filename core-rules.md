@@ -31,6 +31,7 @@ All of the original content in Builder Wars is made available to the public unde
   * Resolving Attack Outcomes
   * Movement II
 * Finishing the Game
+* Appendix
 
 
 # Overview
