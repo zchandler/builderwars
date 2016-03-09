@@ -187,4 +187,10 @@ Here's how Necro works:
 * there is no limit to how many zombies a Necromancer can raise
 * zombies can only be raised once. If they are killed again, they are removed from the game.
 
+## Encapitation
+The opposite of "decapitation" is "encapitation", whereby a hero on the board gets an extra head during the build phase, normally lodged directly on top of his first head (like a hat!). When that hero reaches zero HP (which would normally result in death) he or she loses their first head, and the second head takes its place. At this point the hero gets ALL their HP back, like a reserve tank! 
+Cost: 5HP (under review, might need to be more). The first hero playtested with Encapitation was Encaptain America, by Eli.
+
+## Death Engine
+The dreaded Death Engine (DE) is a fearsome (and drastic!) battlefield weapon that should be carefully considered before use. A Death Engine is a 2-handed device, thus if a hero caries one he or she cannot carry anything else. The Death Engine has a very long cooldown period (can only be used once every five turns). When activated, a Death Engine kills ALL heroes in a 6" radius, except for the bearer. This includes allies. There is no way to mitigate, or otherwise prevent, this loss of life. The engine trumps all other special powers that might seek to stop its horrifying effects. The best defense against a DE is to spread out and use ranged weapons. It is not enough to want to have a DE, the player has to qualify in the Build Phase by putting together something mechanical and sinister-looking. Extra bricks may be required. Gizmos encouraged. Cost: 6HP
 
