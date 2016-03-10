@@ -52,7 +52,7 @@ There are 2 major phases of game play in Builder Wars: 1) the Build Phase, follo
 * 20 small cone pieces
 * 2 large baseplates
 * 200 2x2 bricks
-* 160 1-dot studs
+* 192 1-dot studs
 * 2 rulers, or tape measure
 * 1 Builder Wars Battle Sheet (or just a blank piece of paper)
 * 1 pencil
