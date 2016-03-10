@@ -7,7 +7,7 @@ http://creativecommons.org/licenses/by/4.0/
 # How to Contribute
 I put this project on Github as an experiment, and because Github is an awesome platform for collaboration. There is no computer code (at all) in this repository, if you want to help design this game and can write English you now have an excuse to contribute to a Github repository!
 
-Contributors should familarize themselves with how Github works. The help pages are pretty great.
+Contributors should familiarize themselves with how Github works. The help pages are pretty great.
 https://help.github.com/
 
 **Forks of this project are welcome. Fork Away!** Please submit your ideas for changes and improvements to the rules in the form of **Pull Requests**. To make it easy to merge your ideas into the core rules, please submit one idea per Pull Request, and write a description with the commit message. Thanks!
