@@ -128,6 +128,15 @@ Mortar: AR=1 (splash), range 6”
 
 Players are welcome to create elaborate looking defenses with Lego, but in terms of game mechanics their function will all be the same. Unless it’s different. Up to the GM.
 
+## Vehicles
+Through playtesting it was discovered that it can take quite a few turns to move a cadre of heroes across the battlefield.  The GM may decide to allow players the Vehicle Option.  Players take advantage of the Vehicle Option by first, during the build phase, building a single vehicle suitable for holding however many heroes they want.
+
+Players can decide, at the beginning of the battle phase, to put some or all of their heroes inside the vehicle.  At the beginning of a player's turn the player can optionally move the vehicle up to 24 inches.  This will constitute the player's entire turn.  All heroes in the vehicle will move together with the vehicle.  This is a great way to move a bunch of heroes around the map quickly!
+
+A hero that ends its turn inside the vehicle can move with the vehicle in a future turn.  Heroes with ranged attacks can attack without moving outside the vehicle.  Melee heroes can attack enemies while remaining in the vehicle (so that they can travel with the vehicle on a future turn) if they can reach the enemy with their while positioned inside their vehicle.
+
+During the build phase, the vehicle may be equipped with a siege weapon, which allows long range destruction of building materials, 10 damage from up to 24 inches away.  To use the siege weapon there must be at least one living hero in the vehicle, and the entire player's move must be dedicated to using the siege weapon (i.e. no other moving or attacking). 
+
 ## The Lineup
 Create a list of both armies that includes: Hero name, Shield (Y/N), Speed, AR Melee, AR Range (with ranges in inches). Shorthand for special attacks next to the DR for that attack (F,I, and a spiral shape for Hypno).
 
