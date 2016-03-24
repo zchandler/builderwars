@@ -154,7 +154,9 @@ Early in the battle, it doesn’t matter that much who goes first. It starts to 
 At first you can have a bunch of heroes move before the other side goes next. Up to the GM how to handle that.
 
 ## Movement I
-Each hero can move up to the maximum allowed by their Speed rating, which is the number of inches they can move on the battlefield. The player measures with a ruler or tape measure, and moves his hero. The hero can move in any direction allowed by the terrain. The hero does not have to move at all. If you don’t use up the maximum distance allowed by your speed rating, then the remainder is available in the Movement II step.  When that hero is done, the GM reads out the next name on the Lineup.
+Each hero can move up to the maximum allowed by their Speed rating, which is the number of inches they can move on the battlefield. The player measures with a ruler or tape measure, and moves his hero. For the sake of consistency, measurement and placement should be done from the same point of the mini-fig base.  For example, a hero with a speed of 6 moves 6 inches.  If the hero is moving forward, measurement of 6 inches is from the *front edge* of the hero's base.  So the *front edge* of the hero's base gets placed six inches from the point of measurement.  
+
+The hero can move in any direction allowed by the terrain. The hero does not have to move at all. If you don’t use up the maximum distance allowed by your speed rating, then the remainder is available in the Movement II step.  When that hero is done, the GM reads out the next name on the Lineup.
 
 ## Attack
 When a hero comes close enough to an opponent’s piece, he or she calls out “Contact!” … then the GM gets out a ruler (in the case of ranged weapons) and determines whether contact is actually made. For melee, the pieces have to be touching.
