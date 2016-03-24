@@ -129,7 +129,7 @@ Mortar: AR=1 (splash), range 6”
 Players are welcome to create elaborate looking defenses with Lego, but in terms of game mechanics their function will all be the same. Unless it’s different. Up to the GM.
 
 ## Vehicles
-Through playtesting it was discovered that it can take quite a few turns to move a cadre of heroes across the battlefield.  The GM may decide to allow players the Vehicle Option.  Players take advantage of the Vehicle Option by first, during the build phase, building a single vehicle suitable for holding however many heroes they want.
+Through playtesting it was discovered that it can take quite a few turns to move a cadre of heroes across the battlefield.  The GM may decide to allow players the Vehicle Option.  Players take advantage of the Vehicle Option by first, during the build phase, building a single vehicle suitable for holding however many heroes they want.  It can look like anything, even a scorpion! ![A scorpion!](https://raw.githubusercontent.com/zchandler/builderwars/master/images/Scorpion-shaped%20vehicle.JPG)
 
 Players can decide, at the beginning of the battle phase, to put some or all of their heroes inside the vehicle.  At the beginning of a player's turn the player can optionally move the vehicle up to 24 inches.  This will constitute the player's entire turn.  All heroes in the vehicle will move together with the vehicle.  This is a great way to move a bunch of heroes around the map quickly!
 
