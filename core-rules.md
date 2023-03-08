@@ -73,7 +73,7 @@ A player can give 6HP to 12 heroes, or give more or less to some than others.
 HP allocation is the next step in army building, once the heroes have been assembled from parts. 
 
 One HP is designated by a 1-dot “stud” lego piece. The lego piece (normally a 4x4 or 4x6 plate) that serves as a base to steady the minifig is also the HP counter. A baseplate 4 dots wide is best for playing on carpets, since 2-dot wide baseplates are tippy (half your heroes will be flopped over in a not very dignified way for most of the battle!).  Any flat lego piece (“plate” type) will do, but 4x6 is the current default because it is small enough to be maneuverable, yet hold a sufficient amount of hit points (see below), and forces a HP constraint on how heavy duty a given hero can be.
-Q: *Can I have 1 hero with all 80 hit points?*
+Q: *Can I have 1 hero with all 96 hit points?*
 GM: *Let’s try it, and see how it plays out!*
 
 There are no extraneous cards or paperwork to keep track of HP since it’s visible to everyone just using Lego. A hero with 8HP will have 8 studs on his baseplate when he is at full health. If he gets hit by an arrow for 1HP damage, the player removes a stud, leaving him with 7. When there are no studs remaining, that hero is dead … or “defeated”, or whatever term you care to use. ahem.
