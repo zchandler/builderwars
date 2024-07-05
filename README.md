@@ -1,8 +1,8 @@
 # Builder Wars!
 A Lego strategy game. Because Lego.
 
-This work is made available to the public under a Creative Commons Attribution License. Sharing is good. Remix even better.
-http://creativecommons.org/licenses/by/4.0/
+This work is made available to the public under a Creative Commons License. Sharing is good. Remix even better.
+[http://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 # How to Contribute
 I put this project on Github as an experiment, and because Github is an awesome platform for collaboration. There is no computer code (at all) in this repository, if you want to help design this game and can write English you now have an excuse to contribute to a Github repository!
