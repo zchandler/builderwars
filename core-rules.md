@@ -9,7 +9,7 @@ contributors: Zach Chandler, Elijah Chandler, David Felch, Donovan Metz, Andrew 
 contact: logothete@gmail.com
 
 LEGO and MINIFIGURE are registered trademark of the LEGO Group. 
-All of the original content in Builder Wars is made available to the public under a Creative Commons Attribution license. https://creativecommons.org/licenses/by/4.0/
+All of the original content in Builder Wars is made available to the public under a Creative Commons license. [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Contents
 * Overview
